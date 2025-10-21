@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Manish Mandal 👋
 
-<!--
-**Manish3451/Manish3451** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+I am a Machine Learning Engineer with a strong focus on applied AI.  
+I have a great interest in **world models in AI** and enjoy exploring how machines can understand and simulate the world.  
 
-Here are some ideas to get you started:
+- 🌱 Currently learning and building advanced AI systems.  
+- 📚 Passionate about reading research papers and staying updated with the latest AI developments.  
+- 💻 Skilled in Python, PyTorch, and machine learning frameworks.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects & Work
+- Built and fine-tuned GPT-2 style models for real-world tasks.  
+- Exploring generative AI applications and world modeling in AI.
